@@ -1,0 +1,21 @@
+body{
+    background: #B0C5A4;
+}
+
+.uno{
+    background-color: rgb(54, 101, 145);
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+}
+
+.color{
+    background-color:white;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+}
+
+.table{
+    border: 1px solid black;
+}
